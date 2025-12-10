@@ -26,8 +26,8 @@ A bolsa tem como finalidade selecionar candidatos capazes de produzir documenta�
 
 ## 🗂️ **Conteúdo do Repositório**
 
-* **/documentacao/** — Manual de uso completo do Freshdesk
-* **/planos-de-teste/** — Plano de teste mínimo conforme requisitos do desafio
+* **/Documentacao/** — Manual de uso completo do Freshdesk
+* **/MANUAL/** — Plano de teste mínimo conforme requisitos do desafio
 * **README.md** — Arquivo atual com informações do projeto
 
 ## 🛠️ **Tecnologias Utilizadas**
