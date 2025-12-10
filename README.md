@@ -38,6 +38,5 @@ A bolsa tem como finalidade selecionar candidatos capazes de produzir documentaÃ
 
 ## ðŸ“ž **Contato**
 
-Caso deseje saber mais ou acompanhar outros projetos:
 **GitHub:** [https://github.com/joelma78](https://github.com/joelma78)
 
